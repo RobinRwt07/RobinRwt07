@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robin Rawat
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Javascript , php, MySQL
+- 🌱 I’m currently learning Javascript ,Java,MYSQL
 - 📫 How to reach me - 👇
 - 🖇️ LinkedIn - [linkedin.com/in/robin-singh-762359220](url)
 -    Instagram - [robin.rawat012](url)
